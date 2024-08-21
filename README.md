@@ -2,17 +2,17 @@
 
 I'm a future computational neuroscientist focused on predicting and optimizing treatments for mental health conditions using advanced data analysis techniques. My work lies at the intersection of neuroscience, data science, and machine learning, and I'm driven by the potential of these fields to unlock new insights into brain function and health.
 
-## 🧠 **Computational Neuroscience Portfolio**
+## 🧠 **Computational Neuroscience Portfolio** 
 
-### **Comp-Neuro-Toolbox**
+### **Comp-Neuro-Toolbox** https://github.com/lacomaofficial/Comp-Neuro-Toolbox
 A comprehensive toolbox designed to facilitate machine learning analyses with neuroimaging data, specifically using the Nilearn Python library. This toolbox is particularly useful for creating classifiers and regressors from functional connectivity data derived from fMRI scans.
 
 - **Skills:** NeuroAI, Functional MRI, Machine Learning, Nilearn, Scikit-Learn
 
-### **ADHD Prediction using Resting-State fMRI Connectivity Analysis**
+### **ADHD Prediction using Resting-State fMRI Connectivity Analysis** https://github.com/lacomaofficial/ADHD-Prediction-rsfMRI
 This project applies machine learning techniques to identify ADHD biomarkers through resting-state fMRI connectivity patterns, utilizing SVMs to classify individuals based on their brain connectivity profiles.
 
-- **Skills:** Computational Neuroscience, Cognitive Neuroscience, Health Outcomes, SVM
+- **Skills:** Computational Neuroscience, Cognitive Neuroscience, Health Outcomes, SVM 
 
 ### **N400 ERP in Picture-Word Semantic Integration**
 An examination of brain processing of semantic integration through EEG data analysis, focusing on the N400 ERP component during picture-word mismatch trials.
