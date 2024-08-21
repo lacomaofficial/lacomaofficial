@@ -44,12 +44,12 @@ Predicts age from brain scans, uncovering functional connectivity patterns betwe
 ### **Employee Satisfaction Analysis at SF Motors**
 An analysis of employee satisfaction and retention at SF Motors by constructing a predictive model to identify factors influencing employee turnover. 
 
-- **Skills:** Data Science, Predictive Modeling, NumPy, Pandas, Scikit-Learn, Predictive Modeling with XGBoost
+- **Skills:** Data Science, Predictive Modeling, NumPy, Pandas, Scikit-Learn, Modeling with XGBoost
 
 ### **Taxi Fare Estimation for NYC**
 A robust regression model developed to accurately predict taxi fares in NYC, with performance evaluated using metrics like Mean Squared Error and R-squared. 
 
-- **Skills:** Data Science, Regression Modeling, Predictive Analytics, Predictive Modeling with XGBoost
+- **Skills:** Data Science, Regression Modeling, Predictive Analytics, Modeling with XGBoost
 
 ### **Stock Market Analysis**
 A comprehensive tool for analyzing stock market data, generating trading signals through technical analysis, and forecasting stock prices using sentiment analysis and time series techniques.
