@@ -5,9 +5,12 @@ I'm a future computational neuroscientist focused on predicting and optimizing t
 &emsp;
 
 ## 🎛️ **Computational Neuroscience Portfolio** 
-  
-- ### **Comp-Neuro-Toolbox** 
-  A comprehensive template designed to facilitate machine learning analyses with neuroimaging data, specifically using the Nilearn Python library. This toolbox is particularly useful for creating classifiers and regressors from functional connectivity data derived from fMRI scans.
+
+- ### **N400 ERP in Picture-Word Semantic Integration**
+  An examination of brain processing of semantic integration through EEG data analysis, focusing on the N400 ERP component during picture-word mismatch trials.
+
+- ### **Regression Model to Predict Age from Resting-State fMRI Data**
+  Predicts age from brain scans, uncovering functional connectivity patterns between the transverse sinus and inferior occipital gyrus, providing insights into brain aging.
 
 - ### **Deep Learning with PyTorch Uncovers Gender Differences in Brain Connectivity** 
   This project uses a deep learning approach to classify subjects based on functional connectivity derived from fMRI data. Specifically, the project explores classifying subjects into genders (male vs. female) by analyzing fMRI data during movie watching. 
@@ -15,12 +18,6 @@ I'm a future computational neuroscientist focused on predicting and optimizing t
 
 - ### **ADHD Prediction using Resting-State fMRI Connectivity Analysis** 
   This project applies machine learning techniques to identify ADHD biomarkers through resting-state fMRI connectivity patterns, utilizing SVMs to classify individuals based on their brain connectivity profiles.
-
-
-
-- ### **N400 ERP in Picture-Word Semantic Integration**
-  An examination of brain processing of semantic integration through EEG data analysis, focusing on the N400 ERP component during picture-word mismatch trials.
-
 
 
 - ### **Resting-State fMRI SVM Classifier**
@@ -36,9 +33,8 @@ I'm a future computational neuroscientist focused on predicting and optimizing t
   Utilizes LightGBM to decode brain signals, focusing on cognitive pattern recognition within the Haxby dataset.
 
 
-
-- ### **Regression Model to Predict Age from Resting-State fMRI Data**
-  Predicts age from brain scans, uncovering functional connectivity patterns between the transverse sinus and inferior occipital gyrus, providing insights into brain aging.
+- ### **Comp-Neuro-Toolbox** 
+  A comprehensive toolbox designed to facilitate machine learning analyses with neuroimaging data, specifically using the Nilearn Python library. This toolbox is particularly useful for creating classifiers and regressors from functional connectivity data derived from fMRI scans.
 
 
 &nbsp;
