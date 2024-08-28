@@ -5,9 +5,12 @@ I'm a future computational neuroscientist focused on predicting and optimizing t
 &emsp;
 
 ## 🎛️ **Computational Neuroscience Portfolio** 
-
+  
 - ### **Comp-Neuro-Toolbox** 
-  A comprehensive toolbox designed to facilitate machine learning analyses with neuroimaging data, specifically using the Nilearn Python library. This toolbox is particularly useful for creating classifiers and regressors from functional connectivity data derived from fMRI scans. 
+  A comprehensive template designed to facilitate machine learning analyses with neuroimaging data, specifically using the Nilearn Python library. This toolbox is particularly useful for creating classifiers and regressors from functional connectivity data derived from fMRI scans.
+
+- ### **Deep Learning with PyTorch Uncovers Gender Differences in Brain Connectivity** 
+  This project uses a deep learning approach to classify subjects based on functional connectivity derived from fMRI data. Specifically, the project explores classifying subjects into genders (male vs. female) by analyzing fMRI data during movie watching. 
 
 
 - ### **ADHD Prediction using Resting-State fMRI Connectivity Analysis** 
