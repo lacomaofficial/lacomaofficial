@@ -7,3 +7,4 @@ I'm a future computational neuroscientist focused on predicting and optimizing t
 - **Portfolio:** https://lacomaofficial.github.io/
 
 
+![gallery02](https://github.com/user-attachments/assets/add006f5-a085-412c-86b5-f8104ee7e962)
