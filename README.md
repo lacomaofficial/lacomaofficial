@@ -6,5 +6,6 @@ I'm a future computational neuroscientist focused on predicting and optimizing t
 ### 🔗 **Explore My Work:**
 **https://lacomaofficial.github.io/** 
 
-![gallery02](https://github.com/user-attachments/assets/243a7fd5-d345-4176-a4bb-ac44a066fda8)
+![pexels-caleb-oquendo-7388486-2368x1050](https://github.com/user-attachments/assets/729cdb51-c877-4042-b10e-127bbf706e98)
+
 
