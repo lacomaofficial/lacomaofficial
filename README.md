@@ -6,7 +6,7 @@ I'm a future computational neuroscientist focused on predicting and optimizing t
 ### 🔗 **Explore My Work:**
 **https://lacomaofficial.github.io/** 
 
- **Additional Resources**: [Stock Market Analysis App](https://huggingface.co/spaces/JayLacoma/Stock_Market_Analysis).
+ **[Stock Market Analysis App](https://huggingface.co/spaces/JayLacoma/Stock_Market_Analysis).**
 
 ![pexels-caleb-oquendo-7388486-2368x1050](https://github.com/user-attachments/assets/729cdb51-c877-4042-b10e-127bbf706e98)
 
