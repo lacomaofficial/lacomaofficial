@@ -5,7 +5,7 @@
 - **Brain Areas Involved:**
   - **Visual Cortex (Occipital Lobe):** If the input involves color, shape, or other visual details, the visual cortex is crucial for decoding that information.
   - **Somatosensory Cortex (Parietal Lobe):** If weight or tactile properties are involved, this area processes sensory input related to touch and proprioception.
-
+&nbsp;
 ---
 
 ### 2. **Layers – How Does the Brain Process This Info?**
@@ -13,7 +13,7 @@
 - **Brain Areas Involved:**
   - **Hierarchical Processing in Visual Areas:** For visual processing, the brain uses layers, starting from the **primary visual cortex (V1)** for basic features (e.g., edges), moving to **higher-order areas (V2, V4)** for more complex representations like shapes and colors.
   - **Multisensory Integration in the Parietal Cortex:** Higher-order layers could involve the **parietal cortex** for integrating visual and tactile data to produce a coherent representation of the object.
-
+&nbsp;
 ---
 
 ### 3. **Weights and Bias – How Does the Brain Know What’s Important?**
@@ -21,7 +21,7 @@
 - **Brain Areas Involved:**
   - **Prefrontal Cortex (PFC):** Assigns importance to different features based on goals, expectations, and context (e.g., if you're expecting apples, color might be weighted more heavily).
   - **Basal Ganglia:** Plays a role in reinforcement learning and decision-making, helping the brain decide which clues are relevant over time by adjusting weights based on previous experience.
-
+&nbsp;
 ---
 
 ### 4. **Activation Functions – How Does the Brain Make Flexible Decisions?**
@@ -29,7 +29,7 @@
 - **Brain Areas Involved:**
   - **Anterior Cingulate Cortex (ACC):** Involved in conflict detection and decision-making. It helps resolve whether conflicting sensory input is relevant (e.g., is the orange fruit round but not the right color?).
   - **Thalamus:** Acts as a relay station, controlling what sensory information gets through to higher brain areas, similar to activating or inhibiting certain signals.
-
+&nbsp;
 ---
 
 ### 5. **Learning – How Does the Brain Improve Over Time?**
@@ -37,7 +37,7 @@
 - **Brain Areas Involved:**
   - **Hippocampus:** Crucial for learning and memory. It helps store feedback from past decisions (e.g., learning from mistakes).
   - **Basal Ganglia and Dopamine Pathways:** Key in reinforcement learning, where correct predictions reinforce good strategies and wrong guesses lead to adjustment (similar to how machine learning models update weights).
-<pre>
+&nbsp;
 ---
 
 ### 6. **Training – Doing This Many Times**
@@ -45,7 +45,7 @@
 - **Brain Areas Involved:**
   - **Motor Cortex and Cerebellum:** Involved in repetitive learning, especially for procedural tasks. In the case of recognizing fruits, the **ventral stream** (part of the visual cortex leading to the temporal lobe) becomes specialized through repetition.
   - **Striatum (part of Basal Ganglia):** Plays a role in habit formation, refining responses with repeated feedback loops.
-
+&nbsp;
 ---
 
 ### 7. **Loss Function – How Does the Brain Measure Its Mistakes?**
@@ -53,7 +53,7 @@
 - **Brain Areas Involved:**
   - **Orbitofrontal Cortex (OFC):** Processes errors and outcomes, particularly in value-based decision-making, helping the brain calculate "loss" and adjust strategies.
   - **Anterior Cingulate Cortex (ACC):** Also involved in error monitoring and detecting whether something went wrong.
-
+&nbsp;
 ---
 
 ### 8. **Optimizer – How Does the Brain Get Better?**
@@ -69,7 +69,7 @@
 - **Brain Areas Involved:**
   - **Hippocampus:** Involved in episodic memory and specific learning, which could lead to overfitting by focusing too much on particular past examples.
   - **Generalization Mechanisms in the PFC:** To prevent overfitting, the **prefrontal cortex** helps generalize lessons learned to new situations by integrating a broader range of information rather than over-relying on past experiences.
-
+&nbsp;
 ---
 
 ### 10. **Tuning – Finding the Best Settings**
@@ -77,7 +77,7 @@
 - **Brain Areas Involved:**
   - **Prefrontal Cortex (PFC):** Involved in adjusting strategies dynamically based on outcomes (hyperparameter tuning in machine learning).
   - **Basal Ganglia:** Optimizes motor and cognitive strategies through trial and error, adjusting neural "settings" based on rewards and punishments.
-
+&nbsp;
 ---
 
 ### Summary:
