@@ -1,5 +1,8 @@
 # Cognitive & Computational Neuroscience Intro
 
+
+
+
 ### 1. **Input – What Are We Giving to the Brain?**
 - **Role in the Brain:** Sensory information is processed to form an initial understanding.
 - **Brain Areas Involved:**
