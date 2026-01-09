@@ -1,4 +1,4 @@
-# Jay — Research Portfolio
+# Research Portfolio
 
 I develop machine learning systems for high-dimensional dynamical data, with primary applications in **computational neuroscience** and secondary validation in **quantitative finance**. My work emphasizes architectural integrity, reproducible pipelines, and clinical interpretability.
 
