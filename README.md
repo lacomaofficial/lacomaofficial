@@ -74,7 +74,7 @@ Testing neuro-inspired architectures in non-biological domains to assess robustn
 - Shared backbone (>90%) between **BBTransformer** and **FinancialTransformer**
 
 **Repositories**:  
-- [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Univariate and multivariate forecasting with PatchTST and ProbSparse Attention  
+- [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) 
 - [`Five-Factor-Model-Test`](https://github.com/lacomaofficial/Five-Factor-Model-Test)
 
 ---
@@ -109,6 +109,4 @@ Testing neuro-inspired architectures in non-biological domains to assess robustn
 
 [Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/lacomaofficial)
 
----
 
-This version ensures **technical precision**, **conceptual unity**, and **professional tone**—positioning you as a serious researcher whose work spans theory, application, and education. Let me know if you'd like a matching `neuro_ai` README or a one-page PDF summary for grant submissions.
