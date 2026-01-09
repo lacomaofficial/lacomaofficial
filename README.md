@@ -1,8 +1,7 @@
 # Research Portfolio
 
-My work focuses on complex nonlinear stochastic systems, designing deep learning architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series—whether in fMRI connectivity, electrophysiology, or macro-driven geo-financial systems.
+My work focuses on complex nonlinear stochastic systems, designing deep learning architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series—whether in fMRI connectivity, electrophysiology, or macro-geopolitical systems.
 
-As founder of YC Hedge Fund—an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains.
 
 
 <br>
@@ -84,7 +83,7 @@ Early-stage or methodological experiments that inform core research:
 ## Availability
 
 - **Code**: All repositories are public under permissive licenses.  
-- **Models & Demos**: Shared via [Hugging Face](https://huggingface.co/JayLacoma).  
+- **Models**:  As founder of YC Hedge Fund—an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains. 
 - **Reproducibility**: Each project includes Jupyter notebooks, environment specs, and detailed READMEs.  
 - **Collaboration**: Open to research partnerships in **computational psychiatry**, **digital biomarkers**, **robust time series foundations**, and **causal representation learning**.
 
