@@ -1,8 +1,8 @@
 # Research Portfolio
 
-I develop machine learning systems for **high-dimensional dynamical data**, with primary applications in **computational neuroscience** and secondary validation in **quantitative finance**. My work emphasizes **architectural integrity**, **reproducible pipelines**, and **clinically interpretable outputs**.
+My work focuses on **complex nonlinear stochastic systems**  designing architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series—whether in fMRI connectivity, intracranial electrophysiology, or macro-driven financial markets.
 
-All code is maintained as open scientific infrastructure. Repositories are organized by domain, methodology, and utility.
+As founder of **[YC Hedge Fund](https://www.linkedin.com/company/yc-hedge-fund/ )**—an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize **theoretical grounding**, **robust validation**, and **architectural reuse across domains**. 
 
 
 
