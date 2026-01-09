@@ -81,7 +81,7 @@ Early-stage or methodological experiments that inform core research:
 
 I’m a **computational neuroscientist & deep learning researcher**. My work lies at the intersection of neuroscience, data science, and machine learning, driven by the potential of these fields to unlock new insights into **complex nonlinear stochastic systems**.
 
-- Founder of **YC Hedge Fund**, an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains. 
+- Founder of **YC Hedge Fund**, an independent quantitative research entity, I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains. 
 
 - Research in **computational psychiatry**, **digital biomarkers**, **robust time series foundations**, and **causal representation learning**.
 
