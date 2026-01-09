@@ -1,12 +1,11 @@
 # Research Portfolio
 
-My work focuses on complex nonlinear stochastic systems, designing deep learning architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series.
-
+I’m a **computational neuroscientist & deep learning researcher**. My work lies at the intersection of neuroscience, data science, and machine learning, driven by the potential of these fields to unlock new insights into **complex nonlinear stochastic systems**.
 
 
 <br>
 
-
+<br>
 
 
 ### 1. **Multivariate Time Series Modeling**  
