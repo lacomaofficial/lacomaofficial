@@ -1,10 +1,5 @@
 # Research Portfolio
 
-I’m a **computational neuroscientist & deep learning researcher**. My work lies at the intersection of neuroscience, data science, and machine learning, driven by the potential of these fields to unlock new insights into **complex nonlinear stochastic systems**.
-
-
-<br>
-
 <br>
 
 
@@ -77,14 +72,18 @@ Early-stage or methodological experiments that inform core research:
 
 <br>
 
+<br>
 
-
-## Availability
-
-- **Code**: All repositories are public under permissive licenses.  
-- **Models**:  As founder of YC Hedge Fund—an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains. 
-- **Reproducibility**: Each project includes Jupyter notebooks, environment specs, and detailed READMEs.  
-- **Collaboration**: Open to research partnerships in **computational psychiatry**, **digital biomarkers**, **robust time series foundations**, and **causal representation learning**.
-
+## About Me
 [Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/JayLacoma)  
+
+<br>
+
+I’m a **computational neuroscientist & deep learning researcher**. My work lies at the intersection of neuroscience, data science, and machine learning, driven by the potential of these fields to unlock new insights into **complex nonlinear stochastic systems**.
+
+- Founder of **YC Hedge Fund**, an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains. 
+
+- Research in **computational psychiatry**, **digital biomarkers**, **robust time series foundations**, and **causal representation learning**.
+
+
 
