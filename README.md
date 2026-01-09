@@ -5,8 +5,10 @@ My work focuses on complex nonlinear stochastic systems, designing deep learning
 As founder of YC Hedge Fund—an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains.
 
 
+<br>
 
-## Core Research Areas
+
+
 
 ### 1. **Multivariate Time Series Modeling**  
 Design and evaluation of deep architectures for non-stationary, multichannel temporal sequences.  
@@ -19,7 +21,7 @@ Design and evaluation of deep architectures for non-stationary, multichannel tem
 - [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Univariate and multivariate forecasting with ProbSparse Attention and PatchTST  
 - [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Financial regime detection using macro features (no raw prices); shares backbone with neuro-AI models  
 
-
+<br>
 
 ### 2. **Computational Neuroscience & Clinical Biomarkers**  
 Machine learning applied to multimodal neural data for diagnostic stratification and mechanistic insight.
@@ -53,7 +55,7 @@ Machine learning applied to multimodal neural data for diagnostic stratification
 - [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks) — GNN-ready brain graphs from connectivity matrices  
 - [`Pink_Crystal_Model`](https://github.com/lacomaofficial/Pink_Crystal_Model) — Web-based 3D brain visualization  
 
-
+<br>
 
 ### 3. **Open Educational Infrastructure**  
 Graduate-level teaching materials for reproducible computational neuroscience.
@@ -67,7 +69,7 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 
 Additional pedagogical projects (e.g., `Data-Science-Toolbox`, `XGBoost-HousePrice-Regressor`) serve as entry points for students but are not central to my research program.
 
-
+<br>
 
 ### 4. **Foundational & Exploratory Work**  
 Early-stage or methodological experiments that inform core research:
@@ -75,7 +77,7 @@ Early-stage or methodological experiments that inform core research:
 - [`Pytorch-Classifier-fMRI`](https://github.com/lacomaofficial/Pytorch-Classifier-fMRI), [`Transformer-fMRI-Model`](https://github.com/lacomaofficial/Transformer-fMRI-Model) — Architecture ablation studies  
 - [`timesfm`](https://github.com/lacomaofficial/timesfm) — Evaluation of pretrained time series foundation models  
 
-
+<br>
 
 
 
