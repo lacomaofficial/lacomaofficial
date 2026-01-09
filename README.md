@@ -1,63 +1,78 @@
-# Summary
+# Jay — Research Portfolio
 
-I am a **computational neuroscientist** and **machine learning researcher** developing interpretable AI systems for **medical** and **complex dynamical systems**. My work bridges **clinical neuroscience**, **time series modeling**, and **quantitative decision science**, with a commitment to open, reproducible, and theory-grounded methods.
+I develop machine learning systems for high-dimensional dynamical data, with primary applications in **computational neuroscience** and secondary validation in **quantitative finance**. My work emphasizes architectural integrity, reproducible pipelines, and clinical interpretability.
 
-I lead independent research, teach university-level neuroscience, and maintain a public portfolio of tools and models spanning **fMRI, EEG, iEEG, DWI, behavioral phenotyping, and financial time series**.
-
----
-
-## 🔬 Research Pillars
-
-### 1. **Neuro-AI for Clinical Translation**  
-*Predicting and stratifying neurological & psychiatric conditions using multimodal brain data.*  
-- **[BB-Toolbox](https://github.com/lacomaofficial/BB-Toolbox)**: Transformer-based Parkinson’s classifier (95.2% AUC) on UK Biobank fMRI (414 regions).  
-- **[ASD-Prediction-rsfMRI](https://github.com/lacomaofficial/ASD-Prediction-rsfMRI)**: Autism spectrum disorder detection via resting-state fMRI Transformers.  
-- **[ADHD-Prediction-rsfMRI](https://github.com/lacomaofficial/ADHD-Prediction-rsfMRI)**: Connectivity-based ADHD classification.  
-- **[iEEG-MLP-Classifier](https://github.com/lacomaofficial/iEEG-MLP-Classifier)**: Epileptic event detection from intracranial EEG.  
-- **[Pink_Crystal_Model](https://github.com/lacomaofficial/Pink_Crystal_Model)**: 3D interactive visualization of brain feature importance.  
-
-### 2. **Foundations of Time Series Modeling**  
-*Architecture design for multivariate, non-stationary, high-dimensional sequences.*  
-- **[Transformer-Time-Series-Model](https://github.com/lacomaofficial/Transformer-Time-Series-Model)**: Unified framework for univariate/multivariate forecasting with patch embeddings, RoPE, and temporal pooling.  
-- **[Comp-Neuro-Toolbox](https://github.com/lacomaofficial/Comp-Neuro-Toolbox)**: Classical + deep learning pipelines for neuroimaging.  
-- **[Graph-Neural-Networks](https://github.com/lacomaofficial/Graph-Neural-Networks)**: Brain graph construction from fMRI for GNN-based decoding.  
-
-### 3. **Quantitative Systems Beyond Neuroscience**  
-*Validating neuro-inspired models in finance and behavioral science.*  
-- **[Hedge-Fund-Apps](https://github.com/lacomaofficial/Hedge-Fund-Apps)**: Regime detection, signal generation, and risk-aware trading interfaces.  
-- **[FinancialTransformer]**: Equity move prediction using macro features (no raw prices), sharing >90% backbone with BBTransformer.  
-- **[Five-Factor-Model-Test](https://github.com/lacomaofficial/Five-Factor-Model-Test)**: Personality trait modeling as a proxy for behavioral phenotyping.  
-
-### 4. **Open Educational Infrastructure**  
-*Teaching reproducible computational neuroscience at scale.*  
-- **[Neuro AI Toolbox (`cimt-unia/neuro_ai`)](https://github.com/cimt-unia/neuro_ai)**: University-grade modules for **DWI, EEG, fMRI**—featuring source imaging, connectivity (wPLI), tractography, and Transformer tutorials.  
-- Used in graduate instruction to train students in end-to-end pipeline development.  
+All code is maintained as open scientific infrastructure. Repositories are organized by domain, methodology, and educational utility.
 
 ---
 
-## 🧪 Methodological Signature
+## Core Research Areas
 
-Across all domains, I adhere to consistent principles:
-- **No dropout in embedding layers** — preserve signal integrity in low-SNR regimes.  
-- **Per-subject or per-series normalization** — avoid data leakage.  
-- **Patch-based temporal modeling** with stride < patch size for overlapping context.  
-- **RMSNorm + SwiGLU + RoPE** as default architectural primitives.  
-- **Validation via walk-forward, cohort stratification, or subject-wise splits** — never random shuffle.  
-- **Interpretability via permutation importance**, not post-hoc attention maps.  
+### 1. Multivariate Time Series Modeling  
+Design and evaluation of deep architectures for non-stationary, multichannel temporal data.  
+- **Patch-based Transformers** with channel-independent or multi-scale embeddings  
+- Temporal attention pooling, rotary positional encoding (RoPE), grouped-query attention (GQA)  
+- Strict adherence to walk-forward validation and subject-wise data splits  
+- Key repositories:  
+  - [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model)  
+  - [`BB-Toolbox`](https://github.com/lacomaofficial/BB-Toolbox)  
+  - [`Fin-Transformer`]([https://github.com/cimt-unia/neuro_ai](https://huggingface.co/spaces/JayLacoma/Trader_Technical_Indicators))
+
+### 2. Computational Neuroscience & Clinical Biomarkers  
+Machine learning applied to neuroimaging and electrophysiology for diagnostic and mechanistic insight.  
+- Resting-state fMRI classification (Parkinson’s, ASD, ADHD) using region-level time series (414-parcel atlases)  
+- Source-localized EEG/iEEG analysis with behavior-anchored epoching and debiased connectivity (wPLI)  
+- Graph-based representations of functional networks  
+- Key repositories:  
+  - [`BB-Toolbox`](https://github.com/lacomaofficial/BB-Toolbox)  
+  - [`ASD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ASD-Prediction-rsfMRI)  
+  - [`ADHD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ADHD-Prediction-rsfMRI)  
+  - [`iEEG-MLP-Classifier`](https://github.com/lacomaofficial/iEEG-MLP-Classifier)  
+  - [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks)  
+  - [`Pink_Crystal_Model`](https://github.com/lacomaofficial/Pink_Crystal_Model) (visualization of feature importance)
+
+### 3. Open Educational Infrastructure  
+Publicly available teaching materials for graduate-level computational neuroscience.  
+- Modular, copy-ready workflows for DWI, EEG, and fMRI  
+- End-to-end pipelines: preprocessing → feature extraction → modeling → interpretation  
+- Repository: [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
+
+### 4. Cross-Domain Validation  
+Testing neuro-inspired architectures in non-biological domains to assess generalization.  
+- Equity regime detection using macroeconomic and structural features (no raw prices)  
+- Personality modeling via the Five-Factor framework as a proxy for behavioral phenotyping  
+- Key repositories:  
+  - [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps)  
+  - [`Five-Factor-Model-Test`](https://github.com/lacomaofficial/Five-Factor-Model-Test)
 
 ---
 
-## 🌐 Connect & Collaborate
+## Methodological Principles
 
-- **Personal Site**: [lacomaofficial.github.io](https://lacomaofficial.github.io)  
-- **Hugging Face**: [lacomaofficial](https://huggingface.co/lacomaofficial) — model cards, demos, Spaces  
-- **GitHub Stats**:  
-  ![Metrics](https://github-readme-stats.vercel.app/api?username=lacomaofficial&show_icons=true&theme=radical)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lacomaofficial&layout=compact&theme=radical)
+| Principle | Rationale |
+|---------|----------|
+| **No dropout in embedding layers** | Preserves signal fidelity in low-SNR, high-dimensional settings |
+| **Per-series normalization** | Prevents leakage; respects subject- or ticker-specific baselines |
+| **Overlapping patch embeddings** (stride < patch size) | Captures local dynamics without temporal aliasing |
+| **RMSNorm + SwiGLU + RoPE** | Stable optimization and strong empirical performance across modalities |
+| **Permutation-based feature importance** | Preferred over attention weights for biomarker discovery |
+| **Cohort-stratified or walk-forward validation** | Avoids optimistic bias in temporal or clinical data |
 
 ---
 
-> “The most powerful models are not those that merely predict—but those that **reveal mechanism**.”  
-> — Jay
+## Selected Technical Outputs
 
-*I welcome research collaborations in computational psychiatry, digital biomarkers, causal representation learning, and robust time series foundations.*
+- **BBTransformer**: 6-layer Transformer for Parkinson’s disease classification from rs-fMRI (414 regions, 150 timepoints). Achieved **95.2% accuracy**, AUC = 0.958 on UK Biobank test set.  
+- **Behavior-Anchored EEG Pipeline**: Integrated video pose estimation, LCMV beamforming, and debiased wPLI to detect phase-dependent connectivity shifts in basal ganglia during motor transitions.  
+- **Fin-Transformer**: Demonstrated transfer of neuro-AI architecture to equity forecasting using 27 theory-grounded macro features; validated via multi-window voting and backtesting.
+
+---
+
+## Availability
+
+- **Code**: All repositories are public under permissive licenses unless otherwise noted.  
+- **Models**: Shared via [Hugging Face](https://huggingface.co/lacomaofficial).  
+- **Documentation**: Project-specific READMEs and Jupyter notebooks provide full reproducibility.  
+- **Collaboration**: Open to research partnerships in computational psychiatry, digital biomarkers, robust time series foundations, and causal representation learning.
+
+[Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/lacomaofficial)
