@@ -1,6 +1,6 @@
 # Research Portfolio
 
-My work focuses on complex nonlinear stochastic systems, designing deep learning architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series—whether in fMRI connectivity, electrophysiology, or macro-geopolitical systems.
+My work focuses on complex nonlinear stochastic systems, designing deep learning architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series, whether in fMRI connectivity, electrophysiology, or macro-geopolitical systems.
 
 
 
