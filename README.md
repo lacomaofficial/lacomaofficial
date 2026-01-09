@@ -4,7 +4,7 @@ I develop machine learning systems for **high-dimensional dynamical data**, with
 
 All code is maintained as open scientific infrastructure. Repositories are organized by domain, methodology, and utility.
 
----
+
 
 ## Core Research Areas
 
@@ -19,7 +19,7 @@ Design and evaluation of deep architectures for non-stationary, multichannel tem
 - [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Univariate and multivariate forecasting with ProbSparse Attention and PatchTST  
 - [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Financial regime detection using macro features (no raw prices); shares backbone with neuro-AI models  
 
----
+
 
 ### 2. **Computational Neuroscience & Clinical Biomarkers**  
 Machine learning applied to multimodal neural data for diagnostic stratification and mechanistic insight.
@@ -53,7 +53,7 @@ Machine learning applied to multimodal neural data for diagnostic stratification
 - [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks) — GNN-ready brain graphs from connectivity matrices  
 - [`Pink_Crystal_Model`](https://github.com/lacomaofficial/Pink_Crystal_Model) — Web-based 3D brain visualization  
 
----
+
 
 ### 3. **Open Educational Infrastructure**  
 Graduate-level teaching materials for reproducible computational neuroscience.
@@ -67,7 +67,7 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 
 Additional pedagogical projects (e.g., `Data-Science-Toolbox`, `XGBoost-HousePrice-Regressor`) serve as entry points for students but are not central to my research program.
 
----
+
 
 ### 4. **Foundational & Exploratory Work**  
 Early-stage or methodological experiments that inform core research:
@@ -75,35 +75,16 @@ Early-stage or methodological experiments that inform core research:
 - [`Pytorch-Classifier-fMRI`](https://github.com/lacomaofficial/Pytorch-Classifier-fMRI), [`Transformer-fMRI-Model`](https://github.com/lacomaofficial/Transformer-fMRI-Model) — Architecture ablation studies  
 - [`timesfm`](https://github.com/lacomaofficial/timesfm) — Evaluation of pretrained time series foundation models  
 
----
 
-## Methodological Principles
 
-| Principle | Rationale |
-|---------|----------|
-| **No dropout in embedding layers** | Preserves signal fidelity in low-SNR regimes |
-| **Per-series normalization** | Prevents leakage; respects subject- or ticker-specific baselines |
-| **Overlapping patch embeddings** (stride < patch size) | Captures local dynamics without aliasing |
-| **RMSNorm + SwiGLU + RoPE** | Stable training and strong empirical performance |
-| **Permutation-based feature importance** | Reliable biomarker ranking; avoids attention misinterpretation |
-| **Cohort-stratified or walk-forward validation** | Eliminates optimistic bias |
 
----
-
-## Selected Technical Outputs
-
-- **BBTransformer**: Six-layer dual-stream Transformer for Parkinson’s classification from rs-fMRI (414 regions, 150 timepoints). Achieved **95.2% accuracy**, **F1 = 95.2%**, **AUC = 0.958** on UK Biobank test set (n = 63).  
-- **Behavior-Anchored EEG Pipeline**: Integrated video pose estimation, LCMV beamforming, and debiased wPLI to detect phase-dependent beta-band connectivity shifts in PUT-DP, NAc-shell, and aGP (|Cohen’s d| ≥ 0.8, *p* < 0.01).  
-- **FinancialTransformer**: Equity regime predictor using 27 theory-grounded macro features; validated via multi-window voting and backtesting—demonstrating cross-domain transfer of neuro-AI architecture.
-
----
 
 ## Availability
 
 - **Code**: All repositories are public under permissive licenses.  
-- **Models & Demos**: Shared via [Hugging Face](https://huggingface.co/lacomaofficial).  
+- **Models & Demos**: Shared via [Hugging Face](https://huggingface.co/JayLacoma).  
 - **Reproducibility**: Each project includes Jupyter notebooks, environment specs, and detailed READMEs.  
 - **Collaboration**: Open to research partnerships in **computational psychiatry**, **digital biomarkers**, **robust time series foundations**, and **causal representation learning**.
 
-[Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/lacomaofficial)
+[Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/JayLacoma)  
 
