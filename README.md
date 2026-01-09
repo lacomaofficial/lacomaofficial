@@ -1,6 +1,6 @@
 # Research Portfolio
 
-My work focuses on complex nonlinear stochastic systems, designing deep learning architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series—whether in fMRI connectivity, intracranial electrophysiology, or macro-driven financial markets.
+My work focuses on complex nonlinear stochastic systems, designing deep learning architectures that uncover latent regime dynamics in high-dimensional, non-stationary time series—whether in fMRI connectivity, electrophysiology, or macro-driven geopolitical financial systems.
 
 As founder of YC Hedge Fund—an independent quantitative research entity—I develop AI-driven models for financial analysis that prioritize theoretical grounding, robust validation, and architectural reuse across domains.
 
