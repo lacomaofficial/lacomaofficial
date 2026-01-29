@@ -1,16 +1,16 @@
 # Research Portfolio
 
+<img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/3b34cb28-4995-41fc-9e58-067a3f6298ef" />
+
+
+
+
 <br>
 
 
 ### 1. **Multivariate Time Series Modeling**  
 Design and evaluation of deep architectures for non-stationary, multichannel temporal sequences.  
-- **Patch-based Transformers** with channel-independent or multi-scale embeddings  
-- Architectural primitives: **RoPE**, **Grouped-Query Attention (GQA)**, **SwiGLU**, **RMSNorm**  
-- **Temporal attention pooling**, overlapping patches (stride < patch size)  
-- Validation via **walk-forward splits**, **subject-wise partitioning**, and **permutation testing**  
-
-**Key repositories**:  
+ 
 - [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Univariate and multivariate forecasting with ProbSparse Attention and PatchTST  
 - [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Financial regime detection using macro features (no raw prices); shares backbone with neuro-AI models  
 
@@ -19,32 +19,16 @@ Design and evaluation of deep architectures for non-stationary, multichannel tem
 ### 2. **Computational Neuroscience & Clinical Biomarkers**  
 Machine learning applied to multimodal neural data for diagnostic stratification and mechanistic insight.
 
-#### fMRI-Based Classification  
-- Resting-state fMRI analysis using **414-region parcellations** (HCP-MMP + Tian subcortical)  
-- Transformer and classical ML models for **Parkinson’s**, **ASD**, and **ADHD**  
-- Feature importance via **permutation ranking**, not attention maps  
-
-**Repositories**:  
-- [`BB-Toolbox`](https://github.com/lacomaofficial/BB-Toolbox) — Parkinson’s classification (95.2% accuracy, AUC = 0.958) on UK Biobank  
-- [`ASD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ASD-Prediction-rsfMRI) — Identifies Callosomarginal Sulcus–Lingual Gyrus dysconnectivity  
-- [`ADHD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ADHD-Prediction-rsfMRI) — SVM classifier on ADHD-200 connectivity data  
-- [`Regression-Model-to-Predict-Age-rsfMRI`](https://github.com/lacomaofficial/Regression-Model-to-Predict-Age-rsfMRI) — Brain-age estimation as a proxy for neural health  
+#### fMRI-Based Classification   
+- [`ASD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ASD-Prediction-rsfMRI) 
+- [`ADHD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ADHD-Prediction-rsfMRI) 
+- [`Regression-Model-to-Predict-Age-rsfMRI`](https://github.com/lacomaofficial/Regression-Model-to-Predict-Age-rsfMRI)   
 
 #### Electrophysiology (EEG/iEEG)  
-- **Source-localized analysis** via LCMV beamforming  
-- **Behavior-anchored epoching** using video pose estimation  
-- **Debiased wPLI** for frequency-specific connectivity (beta band: 13–30 Hz)  
-- Classification using **CSP**, **XGBoost**, and **MLPs**  
-
-**Repositories**:  
 - [`EEG-Neuro-Toolbox`](https://github.com/lacomaofficial/EEG-Neuro-Toolbox) — End-to-end EEG preprocessing, feature extraction, and ML  
 - [`iEEG-MLP-Classifier`](https://github.com/lacomaofficial/iEEG-MLP-Classifier) — Epileptic event detection from intracranial EEG  
 
 #### Network Neuroscience & Visualization  
-- Construction of **functional brain graphs** from fMRI  
-- Interactive 3D visualization of feature importance  
-
-**Repositories**:  
 - [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks) — GNN-ready brain graphs from connectivity matrices  
 - [`Pink_Crystal_Model`](https://github.com/lacomaofficial/Pink_Crystal_Model) — Web-based 3D brain visualization  
 
@@ -53,14 +37,13 @@ Machine learning applied to multimodal neural data for diagnostic stratification
 ### 3. **Open Educational Infrastructure**  
 Graduate-level teaching materials for reproducible computational neuroscience.
 
-- **DWI**: Tract-based feature engineering  
-- **EEG**: Source reconstruction and wPLI connectivity  
-- **fMRI**: Classical (SVM, MLP) and deep learning (Transformer) examples  
+* **DWI:** signal exploration, tract-based feature engineering, and ML-ready extraction pipelines.
+* **EEG:** signal preprocessing introduction to cleaning EEG data using MNE sample datasets.
+* **fMRI:** classical machine-learning and deep-learning examples using SVMs, MLPs, and transformers.  
 
 **Repository**:  
 - [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
 
-Additional pedagogical projects (e.g., `Data-Science-Toolbox`, `XGBoost-HousePrice-Regressor`) serve as entry points for students but are not central to my research program.
 
 <br>
 
