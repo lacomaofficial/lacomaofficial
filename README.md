@@ -1,8 +1,6 @@
 # Research Portfolio
 
 
-<img width="484" height="364" alt="porfolio2" src="https://github.com/user-attachments/assets/d1260b0d-30dd-480d-8928-222b1d339d63" />
-
 
 
 <br>
@@ -69,4 +67,6 @@ I’m a **computational neuroscientist & deep learning researcher**. My work lie
 - Research in **computational psychiatry**, **digital biomarkers**, **robust time series foundations**, and **causal representation learning**.
 
 
+
+<img width="484" height="364" alt="porfolio2" src="https://github.com/user-attachments/assets/d1260b0d-30dd-480d-8928-222b1d339d63" />
 
