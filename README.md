@@ -15,12 +15,18 @@ I’m a **computational neuroscientist & deep learning researcher**. My work lie
 
 <br>
 
+### 1. **Open Educational Infrastructure**  
+Graduate-level teaching materials for reproducible computational neuroscience.
 
-### 1. **Multivariate Time Series Modeling**  
-Design and evaluation of deep architectures for non-stationary, multichannel temporal sequences.  
- 
-- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Univariate and multivariate forecasting with ProbSparse Attention and PatchTST  
-- [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Financial regime detection using macro features (no raw prices); shares backbone with neuro-AI models  
+* **DWI:** signal exploration, tract-based feature engineering, and ML-ready extraction pipelines.
+* **EEG:** signal preprocessing introduction to cleaning EEG data using MNE sample datasets.
+* **fMRI:** classical machine-learning and deep-learning examples using SVMs, MLPs, and transformers.  
+
+**Repository**:  
+- [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
+
+
+
 
 <br>
 
@@ -42,16 +48,11 @@ Machine learning applied to multimodal neural data for diagnostic stratification
 
 <br>
 
-### 3. **Open Educational Infrastructure**  
-Graduate-level teaching materials for reproducible computational neuroscience.
-
-* **DWI:** signal exploration, tract-based feature engineering, and ML-ready extraction pipelines.
-* **EEG:** signal preprocessing introduction to cleaning EEG data using MNE sample datasets.
-* **fMRI:** classical machine-learning and deep-learning examples using SVMs, MLPs, and transformers.  
-
-**Repository**:  
-- [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
-
+### 3. **Multivariate Time Series Modeling**  
+Design and evaluation of deep architectures for non-stationary, multichannel temporal sequences.  
+ 
+- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Univariate and multivariate forecasting with ProbSparse Attention and PatchTST  
+- [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Financial regime detection using macro features (no raw prices); shares backbone with neuro-AI models  
 
 <br>
 
