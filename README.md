@@ -1,6 +1,9 @@
 ## About Me
 [Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/JayLacoma)  
 
+<img width="1740" height="1060" alt="image" src="https://github.com/user-attachments/assets/d3c5fcbb-7ba8-488b-b4fd-a9a3be55aedd" />
+
+
 <br>
 
 I’m a **computational neuroscientist & deep learning researcher**. My work lies at the intersection of neuroscience, data science, and machine learning, driven by the potential of these fields to unlock new insights into **complex nonlinear stochastic systems**.
