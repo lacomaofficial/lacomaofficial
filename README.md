@@ -1,7 +1,7 @@
 ## About Me
 [Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/JayLacoma)  
 
-<img width="1840" height="960" alt="bb_pic" src="https://github.com/user-attachments/assets/a6bb5d16-ec96-43e4-801c-ff7a27c9ecaf" />
+
 
 
 
