@@ -25,7 +25,8 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 
 * **DWI:** signal exploration, tract-based feature engineering, and ML-ready extraction pipelines.
 * **EEG:** signal preprocessing introduction to cleaning EEG data using MNE sample datasets.
-* **fMRI:** classical machine-learning and deep-learning examples using SVMs, MLPs, and transformers.  
+* **fMRI:** classical machine-learning and deep-learning examples using SVMs, MLPs, and transformers.
+* **LFP:** essential signal time series processing, filtering techniques, statistical normalization, and spectral analysis.
 
 **Repository**:  
 - [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
