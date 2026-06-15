@@ -84,7 +84,7 @@ Independent quantitative research group applying AI to financial analysis and in
 
 [Homepage](https://lacomaofficial.github.io) | [Data Analysis](https://huggingface.co/JayLacoma) | [Systems Theory](https://www.linkedin.com/pulse/chaos-markets-why-linear-thinking-fails-stochastic-system-fdnrf)
 
-
+#### **Proprietary Models** *(private)*
 - **Multivariate Time Series Classifier:** Binary classification of asset price movements using cross-asset relative value metrics and macro regime detectors. Paired with a structured analyst agent protocol for regime-aware signal interpretation.
 - **Multivariate Time Series Regressor:** Probabilistic forecasting engine with quantile outputs and integrated geo/macro-economic regime detection.
 
