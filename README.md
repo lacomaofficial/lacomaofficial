@@ -57,8 +57,8 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 ### 3. **Ongoing Research**
 *Currently under embargo / in preparation for publication.*
 
-- **Parkinson's Disease EEG**: Three complementary experiments (bimanual motor task, resting-state, intracranial LFP) validating LCMV source-localized EEG against gold-standard LFP STN recordings. Frequency-specific connectivity changes characterized across theta through high-gamma bands in motor-basal-executive networks.
-- **BBT: Multivariate Time Series Transformer**: A foundation model for fMRI-based biomarker discovery trained on Glasser+Tian (414 ROI) parcellated time series. Uses rotary embeddings and grouped-query attention for diagnostic classification across ADHD, ASD, and UK Biobank cohorts. Features transfer learning, permutation-based interpretability, and single-subject diagnosis.
+- **Parkinson's Disease EEG:** Three complementary experiments (bimanual motor task, resting-state, intracranial LFP) validating LCMV source-localized EEG against gold-standard LFP STN recordings. Frequency-specific connectivity changes characterized across theta through high-gamma bands in motor-basal-executive networks.
+- **BBT: Multivariate Time Series Transformer:** A foundation model for fMRI-based biomarker discovery trained on Glasser+Tian (414 ROI) parcellated time series. Uses rotary embeddings and grouped-query attention for diagnostic classification across ADHD, ASD, and UK Biobank cohorts. Features transfer learning, permutation-based interpretability, and single-subject diagnosis.
 
 <br>
 
@@ -85,8 +85,8 @@ Independent quantitative research group applying AI to financial analysis and in
 [Homepage](https://lacomaofficial.github.io) | [Data Analysis](https://huggingface.co/JayLacoma) | [Systems Theory](https://www.linkedin.com/pulse/chaos-markets-why-linear-thinking-fails-stochastic-system-fdnrf)
 
 
-- **Multivariate Time Series Classifier**: Binary classification of asset price movements using cross-asset relative value metrics and macro regime detectors. Paired with a structured analyst agent protocol for regime-aware signal interpretation.
-- **Multivariate Time Series Regressor**: Probabilistic forecasting engine with quantile outputs and integrated geo/macro-economic regime detection.
+- **Multivariate Time Series Classifier:** Binary classification of asset price movements using cross-asset relative value metrics and macro regime detectors. Paired with a structured analyst agent protocol for regime-aware signal interpretation.
+- **Multivariate Time Series Regressor:** Probabilistic forecasting engine with quantile outputs and integrated geo/macro-economic regime detection.
 
 
 
