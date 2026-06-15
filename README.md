@@ -2,6 +2,7 @@
 [Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/JayLacoma)  
 
 
+<img width="3056" height="4592" alt="pexels-photoarted-36095024" src="https://github.com/user-attachments/assets/fa657070-b406-4795-aa80-fde4137c1be1" />
 
 
 
