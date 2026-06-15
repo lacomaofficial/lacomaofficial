@@ -72,10 +72,10 @@ Machine learning applied to multimodal data for diagnostic stratification and me
 - [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks) 
  
 #### Time Series Models  
-- [`Multivariate-Transformer-TS-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) 
+- [`Multivariate-Transformer-TS-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model)
 
 
-<br>
+
 
 <br>
 
@@ -83,6 +83,11 @@ Machine learning applied to multimodal data for diagnostic stratification and me
 Independent quantitative research group applying AI to financial analysis and investing. Conducts macroeconomic, sectoral, and machine-learning–based market studies to identify inefficiencies and optimize portfolio strategies.
 
 [Homepage](https://lacomaofficial.github.io) | [Data Analysis](https://huggingface.co/JayLacoma) | [Systems Theory](https://www.linkedin.com/pulse/chaos-markets-why-linear-thinking-fails-stochastic-system-fdnrf)
+
+
+- **Multivariate Time Series Classifier**: Binary classification of asset price movements using cross-asset relative value metrics and macro regime detectors. Paired with a structured analyst agent protocol for regime-aware signal interpretation.
+- **Multivariate Time Series Regressor**: Probabilistic forecasting engine with quantile outputs and integrated geo/macro-economic regime detection.
+
 
 
 
