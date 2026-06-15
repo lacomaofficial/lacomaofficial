@@ -40,11 +40,15 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 
 #### Electrophysiology (EEG/iEEG)  
 - **Preprocessing** · [`xeeg_kit`](https://github.com/cimt-unia/xeeg_kit)
-> Multi-stage artifact removal for 280-channel EEG using a **"Repair—Not Reject"** philosophy. Integrates MEEGKit (ASR + STAR + SNS) with ICLabel deep-learning component classification. Built for BEL EEG System One; compatible with any MNE-supported format. Includes parallel batch processing with per-subject logging.
+> Multi-stage artifact removal for 280-channel EEG. Integrates MEEGKit (ASR + STAR + SNS) with ICLabel deep-learning component classification. Built for BEL EEG System One; compatible with any MNE-supported format. Includes parallel batch processing with per-subject logging.
 
 
 - **Source Reconstruction** · [`lcmv_xtra`](https://github.com/cimt-unia/lcmv_xtra)
 > LCMV beamforming pipeline on `fsaverage` space with automated BEL 280 coregistration. Extracts time courses from DiFuMo (512), Glasser+Tian (414), and CIMT Unified (448) atlases. Computes debiased WPLI connectivity across eight frequency bands. Fully self-contained — no manual downloads required.
+
+#### Brain Imaging (fMRI)
+**GT Atlas** · [`gt_map`](https://github.com/cimt-unia/gt_map)
+> TR-flexible Glasser+Tian parcellator (414 ROIs) for reproducible time series extraction. Resamples before standardizing to preserve signal integrity; no temporal filtering avoids `padlen` errors on short scans. Designed for multi-site studies (ABIDE, UK Biobank, ADHD-200). Atlases bundled — zero external downloads required.
 
 <br>
 
