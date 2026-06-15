@@ -1,6 +1,6 @@
 # Research Portfolio
 
-
+<br>
 
 ### 1. Academic Infrastructure  
 Graduate-level teaching materials for reproducible computational neuroscience. Covers DWI, EEG, fMRI, LFP, and BCI.
