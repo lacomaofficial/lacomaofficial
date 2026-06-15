@@ -31,11 +31,18 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 - [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
 
 
+<br>
+
+### 2. **Multivariate Time Series Modeling**  
+Design and evaluation of deep architectures for non-stationary, multichannel temporal sequences.  
+ 
+- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Univariate and multivariate forecasting with ProbSparse Attention and PatchTST  
+- [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Financial regime detection using macro features (no raw prices); shares backbone with neuro-AI models  
 
 
 <br>
 
-### 2. **Computational Neuroscience & Clinical Biomarkers**  
+### 3. **Computational Neuroscience & Clinical Biomarkers**  
 Machine learning applied to multimodal neural data for diagnostic stratification and mechanistic insight.
 
 #### fMRI-Based Classification   
@@ -51,13 +58,6 @@ Machine learning applied to multimodal neural data for diagnostic stratification
 - [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks) — GNN-ready brain graphs from connectivity matrices  
 - [`Pink_Crystal_Model`](https://github.com/lacomaofficial/Pink_Crystal_Model) — Web-based 3D brain visualization  
 
-<br>
-
-### 3. **Multivariate Time Series Modeling**  
-Design and evaluation of deep architectures for non-stationary, multichannel temporal sequences.  
- 
-- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Univariate and multivariate forecasting with ProbSparse Attention and PatchTST  
-- [`Hedge-Fund-Apps`](https://github.com/lacomaofficial/Hedge-Fund-Apps) — Financial regime detection using macro features (no raw prices); shares backbone with neuro-AI models  
 
 <br>
 
