@@ -39,24 +39,19 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 ### 2. **Exploratory Work**  
 Machine learning applied to multimodal data for diagnostic stratification and mechanistic insight.
 
-#### Time Series Models  
-- [`Transformer-Time-Series-Models`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) 
-- [`Evaluation of pretrained time series foundation models`](https://github.com/lacomaofficial/timesfm)   
-
-#### Electrophysiology (EEG/iEEG)  
-- [`EEG-Neuro-Toolbox`](https://github.com/lacomaofficial/EEG-Neuro-Toolbox) 
-- [`iEEG-MLP-Classifier`](https://github.com/lacomaofficial/iEEG-MLP-Classifier)  
-
 #### fMRI-Based Classification   
 - [`Comp-Neuro-Toolbox`](https://github.com/lacomaofficial/Comp-Neuro-Toolbox) 
 - [`ASD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ASD-Prediction-rsfMRI) 
 - [`ADHD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ADHD-Prediction-rsfMRI) 
-- [`Regression-Model-to-Predict-Age-rsfMRI`](https://github.com/lacomaofficial/Regression-Model-to-Predict-Age-rsfMRI)
-- [`Pytorch-Classifier-fMRI`](https://github.com/lacomaofficial/Pytorch-Classifier-fMRI)
-- [`Transformer-fMRI-Model`](https://github.com/lacomaofficial/Transformer-fMRI-Model) 
 - [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks) 
-- [`Pink_Crystal_Model`](https://github.com/lacomaofficial/Pink_Crystal_Model)   
+ 
+#### Time Series Models  
+- [`Multivariate-Transformer-TS-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) 
+- [`Foundational-Transformer-TS-Model`](https://github.com/lacomaofficial/timesfm)   
 
+#### Electrophysiology (EEG/iEEG)  
+- [`EEG-Neuro-Toolbox`](https://github.com/lacomaofficial/EEG-Neuro-Toolbox) 
+- [`iEEG-MLP-Classifier`](https://github.com/lacomaofficial/iEEG-MLP-Classifier)  
 
 
 
