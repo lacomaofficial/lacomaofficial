@@ -1,9 +1,7 @@
 ## About Me
 [Personal Site](https://lacomaofficial.github.io) | [Hugging Face](https://huggingface.co/JayLacoma)  
 
-
-<img width="456" height="992" alt="pexels-photoarted-36095024" src="https://github.com/user-attachments/assets/fa657070-b406-4795-aa80-fde4137c1be1" />
-
+<img width="1056" height="1646" alt="607856404-fa657070-b406-4795-aa80-fde4137c1be1" src="https://github.com/user-attachments/assets/915769d9-9b18-42ca-a2a5-01d9fb5c1014" />
 
 
 <br>
