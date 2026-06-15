@@ -1,4 +1,6 @@
 # Research Portfolio
+<img width="418" height="260" alt="port" src="https://github.com/user-attachments/assets/4507d8c7-bbff-4149-abfa-0c02deaa0637" />
+
 
 <br>
 
