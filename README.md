@@ -36,7 +36,19 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 
 <br>
 
-### 2. **Exploratory Work**  
+### 2. Packages/Libraries
+
+#### Electrophysiology (EEG/iEEG)  
+- **Preprocessing** · [`xeeg_kit`](https://github.com/cimt-unia/xeeg_kit)
+> Multi-stage artifact removal for 280-channel EEG using a **"Repair—Not Reject"** philosophy. Integrates MEEGKit (ASR + STAR + SNS) with ICLabel deep-learning component classification. Built for BEL EEG System One; compatible with any MNE-supported format. Includes parallel batch processing with per-subject logging.
+
+
+- **Source Reconstruction** · [`lcmv_xtra`](https://github.com/cimt-unia/lcmv_xtra)
+> LCMV beamforming pipeline on `fsaverage` space with automated BEL 280 coregistration. Extracts time courses from DiFuMo (512), Glasser+Tian (414), and CIMT Unified (448) atlases. Computes debiased WPLI connectivity across eight frequency bands. Fully self-contained — no manual downloads required.
+
+<br>
+
+### 3. **Exploratory Work**  
 Machine learning applied to multimodal data for diagnostic stratification and mechanistic insight.
 
 #### fMRI-Based Classification   
@@ -47,12 +59,6 @@ Machine learning applied to multimodal data for diagnostic stratification and me
  
 #### Time Series Models  
 - [`Multivariate-Transformer-TS-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) 
-
-#### Electrophysiology (EEG/iEEG)  
-- [`EEG-Neuro-Toolbox`](https://github.com/lacomaofficial/EEG-Neuro-Toolbox) 
-- [`iEEG-MLP-Classifier`](https://github.com/lacomaofficial/iEEG-MLP-Classifier)  
-
-
 
 
 <br>
