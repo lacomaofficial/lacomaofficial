@@ -47,7 +47,6 @@ Machine learning applied to multimodal data for diagnostic stratification and me
  
 #### Time Series Models  
 - [`Multivariate-Transformer-TS-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) 
-- [`Foundational-Transformer-TS-Model`](https://github.com/lacomaofficial/timesfm)   
 
 #### Electrophysiology (EEG/iEEG)  
 - [`EEG-Neuro-Toolbox`](https://github.com/lacomaofficial/EEG-Neuro-Toolbox) 
