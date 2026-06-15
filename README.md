@@ -18,20 +18,11 @@ My work lies at the intersection of neuroscience, data science, and machine lear
 
 
 
+### 1. Academic Infrastructure  
+Graduate-level teaching materials for reproducible computational neuroscience. Covers DWI, EEG, fMRI, LFP, and BCI.
 
-
-
-### 1. **Academic Infrastructure**  
-Graduate-level teaching materials for reproducible computational neuroscience.
-
-* **DWI:** signal exploration, tract-based feature engineering, and ML-ready extraction pipelines.
-* **EEG:** signal preprocessing introduction to cleaning EEG data using MNE sample datasets.
-* **fMRI:** classical machine-learning and deep-learning examples using SVMs, MLPs, and transformers.
-* **LFP:** essential signal time series processing, filtering techniques, statistical normalization, and spectral analysis.
-* **BCI:** state-of-the-art python libraries for Brain-Computer Interface research, with a specific focus on real-time experimental control.
 
 **Repository**:  [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
-
 
 
 <br>
@@ -52,9 +43,19 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 
 <br>
 
+### 3. **Toolboxes**
+
+- **Neuro-Toolbox** · [`Neuro-Toolbox`](https://github.com/lacomaofficial/Neuro-Toolbox)
+> Curated tutorials, templates, and reusable frameworks for EEG signal processing, fMRI machine learning, and psychometric assessment. Includes preprocessing pipelines, SVM and transformer-based classification, PyTorch tutorials, and graph neural networks for brain connectivity.
+
+- **Quant-Toolbox** · [`Quant-Toolbox`](https://github.com/lacomaofficial/Quant-Toolbox)
+> Quantitative finance tools for market screening, technical analysis, and macro regime detection. Gradio apps for fundamental analysis, sentiment analysis, and economic cycle frameworks. Built with Yahoo Finance and Hugging Face models.
+
+<br>
 
 
-### 3. **Ongoing Research**
+
+### 4. **Ongoing Research**
 *Currently under embargo / in preparation for publication.*
 
 - **Parkinson's Disease EEG:** Three complementary experiments (bimanual motor task, resting-state, intracranial LFP) validating LCMV source-localized EEG against gold-standard LFP STN recordings. Frequency-specific connectivity changes characterized across theta through high-gamma bands in motor-basal-executive networks.
@@ -62,17 +63,8 @@ Graduate-level teaching materials for reproducible computational neuroscience.
 
 <br>
 
-### 4. **Exploratory Work**  
-Machine learning applied to multimodal data for diagnostic stratification and mechanistic insight.
-
-#### fMRI-Based Classification   
-- [`Comp-Neuro-Toolbox`](https://github.com/lacomaofficial/Comp-Neuro-Toolbox) 
-- [`ASD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ASD-Prediction-rsfMRI) 
-- [`ADHD-Prediction-rsfMRI`](https://github.com/lacomaofficial/ADHD-Prediction-rsfMRI) 
-- [`Graph-Neural-Networks`](https://github.com/lacomaofficial/Graph-Neural-Networks) 
- 
-#### Time Series Models  
-- [`Multivariate-Transformer-TS-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model)
+### 5. **Time Series Models**  
+- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Multivariate and univariate deep learning for time series forecasting. 9 ⭐ 4 🍴
 
 
 
@@ -87,8 +79,4 @@ Independent quantitative research group applying AI to financial analysis and in
 #### **Proprietary Models** *(private)*
 - **Multivariate Time Series Classifier:** Binary classification of asset price movements using cross-asset relative value metrics and macro regime detectors. Paired with a structured analyst agent protocol for regime-aware signal interpretation.
 - **Multivariate Time Series Regressor:** Probabilistic forecasting engine with quantile outputs and integrated geo/macro-economic regime detection.
-
-
-
-
 
