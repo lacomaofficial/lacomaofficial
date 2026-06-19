@@ -39,9 +39,6 @@ Graduate-level teaching materials for reproducible computational neuroscience. C
 - **Statistical Inference** · [`lcmv_stats`](https://github.com/cimt-unia/lcmv_stats)
 > Statistical analysis companion to `lcmv_xtra`, optimized for the CIMT Unified Atlas (448 ROIs). Provides robust tools for group-level permutation tests, Generalized Partial Directed Coherence (GPDC) for directional connectivity, cluster-based time-frequency correction, and automated reporting.
 
-#### Brain Imaging (fMRI)
-- **Glasser-Tian Atlas** · [`gt_map`](https://github.com/cimt-unia/gt_map)
-> TR-flexible Glasser+Tian parcellator combining 360 cortical and 54 subcortical regions. Resamples before standardizing to preserve signal integrity; no temporal filtering avoids `padlen` errors on short scans. Designed for multi-site studies (ABIDE, UK Biobank, ADHD-200). Atlases bundled, zero external downloads required.
 
 #### Brain Imaging (fMRI)
 - **Glasser-Tian Atlas** · [`gt_map`](https://github.com/cimt-unia/gt_map)
