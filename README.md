@@ -64,7 +64,7 @@ Graduate-level teaching materials for reproducible computational neuroscience. C
 <br>
 
 ### 5. **Time Series Models**  
-- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Multivariate and univariate deep learning for time series forecasting. 9 ⭐ 4 🍴
+- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Multivariate and univariate deep learning for time series forecasting.
 
 
 
