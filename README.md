@@ -44,6 +44,10 @@ Graduate-level teaching materials for reproducible computational neuroscience. C
 - **Glasser-Tian Atlas** · [`gt_map`](https://github.com/cimt-unia/gt_map)
 > TR-flexible Glasser+Tian parcellator combining 360 cortical and 54 subcortical regions. Resamples before standardizing to preserve signal integrity; no temporal filtering avoids `padlen` errors on short scans. Designed for multi-site studies (ABIDE, UK Biobank, ADHD-200). Atlases bundled, zero external downloads required.
 
+- **CIMT Atlas** · [`cimt_atlas`](https://cimt-atlas-app.onrender.com/)
+> Interactive 3D visualization of the CIMT 448-ROI Atlas. This application enables researchers to explore functional brain systems through a hierarchical cascade filter (System, Hemisphere, Sub-system), select regions of interest, and render them as interactive 3D meshes in the browser.
+
+
 <br>
 
 ### 3. **Toolboxes**
