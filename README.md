@@ -1,5 +1,5 @@
 ## About Me
-[Personal Site](https://www.linkedin.com/in/jlacoma/) |  [Academia](https://github.com/cimt-unia)
+[Personal Site](https://www.linkedin.com/in/jlacoma/) |  [Academia](https://github.com/cimt-unia) |  [Sound Cloud](https://soundcloud.com/jaylacoma)
 - **Computational Neuroscience & Deep Learning Research**
 
 <img width="356" height="446" alt="607856404-fa657070-b406-4795-aa80-fde4137c1be1" src="https://github.com/user-attachments/assets/915769d9-9b18-42ca-a2a5-01d9fb5c1014" />
