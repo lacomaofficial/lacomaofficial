@@ -11,8 +11,6 @@
 
 ### 1. Academic Infrastructure
 
-[Academia](https://github.com/cimt-unia)
-
 Graduate-level teaching materials for reproducible computational neuroscience. Covers DWI, EEG, fMRI, LFP, and BCI.
 
 
@@ -66,10 +64,6 @@ Graduate-level teaching materials for reproducible computational neuroscience. C
 >  A foundation model for fMRI-based biomarker discovery trained on Glasser+Tian (414 ROI) parcellated time series. Uses rotary embeddings and grouped-query attention for diagnostic classification across ADHD, ASD, and UK Biobank cohorts. Features transfer learning, permutation-based interpretability, and single-subject diagnosis. 
 
 <br>
-
-### 5. **Time Series Models**  
-- [`Transformer-Time-Series-Model`](https://github.com/lacomaofficial/Transformer-Time-Series-Model) — Multivariate and univariate deep learning for time series forecasting.
-
 
 
 
