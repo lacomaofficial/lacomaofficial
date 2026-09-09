@@ -68,7 +68,7 @@ Graduate-level teaching materials for reproducible computational neuroscience. C
 - **Parkinson's Disease EEG:**
 > Three complementary experiments (bimanual motor task, resting-state, intracranial LFP) validating LCMV source-localized EEG against gold-standard LFP STN recordings. Frequency-specific connectivity changes characterized across theta through high-gamma bands in motor-basal-executive networks.
 
-- **BBT: Multivariate Time Series Transformer** · [`BBT`]([https://github.com/cimt-unia/BBTransformer](https://github.com/lacomaofficial/BBT))
+- **BBT: Multivariate Time Series Transformer** · [`BBT`](https://github.com/lacomaofficial/BBT)
 >  A foundation model for fMRI-based biomarker discovery trained on Glasser+Tian (414 ROI) parcellated time series. Uses rotary embeddings and grouped-query attention for diagnostic classification across ADHD, ASD, and UK Biobank cohorts. Features transfer learning, permutation-based interpretability, and single-subject diagnosis. 
 
 <br>
