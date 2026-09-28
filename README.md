@@ -2,7 +2,8 @@
 [Personal](https://www.linkedin.com/in/jlacoma/) |  [Academia](https://github.com/cimt-unia)
 
 
-<img width="156" height="246" alt="607856404-fa657070-b406-4795-aa80-fde4137c1be1" src="https://github.com/user-attachments/assets/915769d9-9b18-42ca-a2a5-01d9fb5c1014" />
+<img width="300" height="200" alt="pexels-jan-van-der-wolf-11680885-18432621" src="https://github.com/user-attachments/assets/42d60934-2950-4919-9bda-23cea33055ad" />
+
 
 
 <br>
