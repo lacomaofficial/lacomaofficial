@@ -1,22 +1,24 @@
 # **Biography**
 
-PhD candidate in Computer Science in Medical Technology at the University of Augsburg and member of the Chair of Informatics for Medical Technologies (CIMT), specializing in reproducible computational neuroscience and clinically reliable diagnostics. 
+PhD candidate in Computer Science in Medical Technology at the University of Augsburg and a member of the Chair of Informatics for Medical Technologies (CIMT), specializing in reproducible computational neuroscience and clinically reliable diagnostics. My work lies at the intersection of neuroscience, data science, and deep learning, driven by the potential of these fields to unlock new insights into complex nonlinear stochastic systems.
 
 <br>
 
 ### Ongoing research:
 
--   **High-Density EEG Source Reconstruction:** Reconstructs intracranial local field potential (LFP) frequency dynamics from 280-channel scalp EEG using optimized LCMV beamformers. Benchmarks cross-modal spectral correspondence across six canonical frequency bands against invasive LFP ground truth—from the nucleus accumbens, orbitofrontal cortex, and ventral striatum in OCD and addiction, alongside the subthalamic nucleus in Parkinson’s disease—to evaluate non-invasive biomarker fidelity in limbic and motor-basal-executive circuits.
--   **Multivariate Time-Series Foundation Model for fMRI:** Develops a transformer-based foundation model for fMRI biomarker discovery trained on 414-ROI parcellated time series. Leverages rotary embeddings and grouped-query attention for diagnostic classification across ADHD, autism spectrum disorder (ASD), and UK Biobank cohorts, supporting transfer learning, permutation-based interpretability, and single-subject diagnosis.
+* **High-Density EEG Source Reconstruction:** Replicating intracranial local field potential (LFP) spectral dynamics from 280-channel scalp EEG using an improved LCMV beamformer algorithm. We benchmark cross-modal spectral correspondence across canonical frequency bands against invasive LFP ground truth, recorded from the nucleus accumbens, orbitofrontal cortex, and ventral striatum in OCD and addiction, as well as the subthalamic nucleus in Parkinson’s disease, to characterize non-invasive biomarker fidelity across limbic and motor-basal-executive circuits.
+* **Multivariate Time-Series Foundation Model for fMRI:** Developing a transformer-based foundation model trained on 414-ROI parcellated time series for clinical biomarker discovery. Leveraging rotary embeddings and grouped-query attention, the model performs diagnostic classification across ADHD, autism spectrum disorder (ASD), and UK Biobank cohorts while supporting transfer learning, permutation-based interpretability, and single-subject inference.
 
 <br>
 
-### Scientific infrastructure:
+### CIMT Libraries:
 
--   **Open-Source Tutorials & Toolboxes:** Authored reproducible workflows and graduate-level teaching materials covering DWI, EEG, fMRI, LFP, and BCI, alongside curated machine-learning frameworks for EEG signal processing, fMRI classification, and brain connectivity analysis.
--   **Electrophysiology (EEG/iEEG):** High-density (280-channel) EEG, spanning multi-stage artifact removal with deep-learning component classification, automated LCMV source reconstruction across multiple brain atlases, and group-level statistical inference with directional connectivity analysis.
--   **Functional MRI (fMRI):** TR-flexible parcellation pipeline optimized for large, multi-site neuroimaging cohorts, alongside an interactive 3D browser-based visualization platform for the 448-ROI CIMT Unified Atlas.
+* **Tutorials & Teaching:** Graduate-level materials and reproducible ML workflows for DWI, EEG, fMRI, LFP, and BCI.
+* **Electrophysiology (EEG/iEEG):** End-to-end processing featuring deep-learning artifact classification, multi-atlas source reconstruction, and directional connectivity inference.
+* **Functional MRI (fMRI):** TR-flexible parcellation for multi-site cohorts and an interactive 3D browser viewer for the 448-ROI CIMT Unified Atlas.
 
 <br>
 
-Additional information regarding his research portfolio is available via his [personal website](https://lacomaofficial.github.io/) and [GitHub repository](https://github.com/lacomaofficial).
+Personal website: [https://lacomaofficial.github.io](https://lacomaofficial.github.io)
+
+GitHub repository: [https://github.com/lacomaofficial](https://github.com/lacomaofficial)
