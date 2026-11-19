@@ -6,7 +6,7 @@ PhD candidate in Computer Science in Medical Technology at the University of Aug
 
 ### Ongoing research:
 
--   **High-Density EEG Source Reconstruction:** Reconstructs intracranial local field potential (LFP) frequency dynamics from 280-channel scalp EEG using optimized LCMV beamformers. Benchmarks cross-modal spectral correspondence across six canonical frequency bands against invasive LFP ground truth—from the nucleus accumbens, orbitofrontal cortex, and globus pallidus in OCD and addiction, alongside the subthalamic nucleus in Parkinson’s disease—to evaluate non-invasive biomarker fidelity in limbic and motor-basal-executive circuits.
+-   **High-Density EEG Source Reconstruction:** Reconstructs intracranial local field potential (LFP) frequency dynamics from 280-channel scalp EEG using optimized LCMV beamformers. Benchmarks cross-modal spectral correspondence across six canonical frequency bands against invasive LFP ground truth—from the nucleus accumbens, orbitofrontal cortex, and ventral striatum in OCD and addiction, alongside the subthalamic nucleus in Parkinson’s disease—to evaluate non-invasive biomarker fidelity in limbic and motor-basal-executive circuits.
 -   **Multivariate Time-Series Foundation Model for fMRI:** Develops a transformer-based foundation model for fMRI biomarker discovery trained on 414-ROI parcellated time series. Leverages rotary embeddings and grouped-query attention for diagnostic classification across ADHD, autism spectrum disorder (ASD), and UK Biobank cohorts, supporting transfer learning, permutation-based interpretability, and single-subject diagnosis.
 
 <br>
