@@ -1,6 +1,6 @@
 # **Biography**
 
-PhD candidate in Computer Science in Medical Technology at the University of Augsburg and member of the Chair of Informatics for Medical Technologies (CIMT), specializing in reproducible computational neuroscience and clinically reliable diagnostics. His work models complex, nonlinear stochastic systems by integrating neuroscience, data science, and machine learning. 
+PhD candidate in Computer Science in Medical Technology at the University of Augsburg and member of the Chair of Informatics for Medical Technologies (CIMT), specializing in reproducible computational neuroscience and clinically reliable diagnostics. 
 
 <br>
 
