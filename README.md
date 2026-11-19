@@ -67,9 +67,9 @@ Graduate-level teaching materials for reproducible computational neuroscience. C
 ### 4. **Ongoing Research**
 *Currently under embargo / in preparation for publication.*
 
-- **Parkinson's Disease EEG:**
-> Three complementary experiments (bimanual motor task, resting-state, intracranial LFP) validating LCMV source-localized EEG against gold-standard LFP STN recordings. Frequency-specific connectivity changes characterized across theta through high-gamma bands in motor-basal-executive networks.
-
+-   **SRC: EEG HD Source Reconstruction** · [`SRC-LFP`](https://github.com/cimt-unia/)
+    > Reconstructs intracranial local field potential (LFP) time-frequency dynamics from 280-channel high-density EEG using optimized LCMV beamformers. Benchmarks cross-modal spectral correspondence across six canonical bands (Delta, 1–4 Hz, to High Gamma, 50–100 Hz) during distinct mental states, using invasive LFP from NAc, OFC, and GP (OCD/addiction) and STN (Parkinson’s) as ground truth to evaluate non-invasive biomarker fidelity in limbic and motor-basal-executive circuits.
+    > 
 - **BBT: Multivariate Time Series Transformer** · [`BBT`](https://github.com/lacomaofficial/BBT)
 >  A foundation model for fMRI-based biomarker discovery trained on Glasser+Tian (414 ROI) parcellated time series. Uses rotary embeddings and grouped-query attention for diagnostic classification across ADHD, ASD, and UK Biobank cohorts. Features transfer learning, permutation-based interpretability, and single-subject diagnosis. 
 
