@@ -10,13 +10,6 @@ PhD candidate in computational neuroscience & deep learning research. My work li
 
 **Multivariate Time-Series Foundation Model for fMRI:** Developing a transformer-based foundation model trained on 414-ROI parcellated time series for clinical biomarker discovery. Leveraging rotary embeddings and grouped-query attention, the model performs diagnostic classification across ADHD, autism spectrum disorder (ASD), and UK Biobank cohorts while supporting transfer learning, permutation-based interpretability, and single-subject inference.
 
-<br>
-
-### CIMT Libraries:
-
-* **Tutorials & Teaching:** Graduate-level materials and reproducible ML workflows for DWI, EEG, fMRI, LFP, and BCI.
-* **Electrophysiology (EEG/iEEG):** End-to-end processing featuring deep-learning artifact classification, multi-atlas source reconstruction, and directional connectivity inference.
-* **Functional MRI (fMRI):** TR-flexible parcellation for multi-site cohorts and an interactive 3D browser viewer for the 448-ROI CIMT Unified Atlas.
 
 <br>
 
