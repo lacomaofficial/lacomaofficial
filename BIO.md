@@ -15,4 +15,4 @@ PhD candidate in Computer Science in Medical Technology at the University of Aug
 
 -   **Open-Source Tutorials & Toolboxes:** Authored reproducible workflows and graduate-level teaching materials covering DWI, EEG, fMRI, LFP, and BCI, alongside curated machine-learning frameworks for EEG signal processing, fMRI classification, and brain connectivity analysis.
 -   **Electrophysiology (EEG/iEEG):** High-density (280-channel) EEG, spanning multi-stage artifact removal with deep-learning component classification, automated LCMV source reconstruction across multiple brain atlases, and group-level statistical inference with directional connectivity analysis.
--   **Functional MRI (fMRI):** Built a TR-flexible parcellation pipeline optimized for large, multi-site neuroimaging cohorts, alongside an interactive 3D browser-based visualization platform for the 448-ROI CIMT Unified Atlas.
+-   **Functional MRI (fMRI):** TR-flexible parcellation pipeline optimized for large, multi-site neuroimaging cohorts, alongside an interactive 3D browser-based visualization platform for the 448-ROI CIMT Unified Atlas.
