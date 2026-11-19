@@ -2,6 +2,7 @@
 [Personal](https://lacomaofficial.github.io)  |  [Academia](https://github.com/cimt-unia)
 
 
+
 <img width="150" height="10" alt="pexels-jan-van-der-wolf-11680885-18432621 - Copy" src="https://github.com/user-attachments/assets/a13ebe12-4cdd-443d-a730-4f06224fbfa4" />
 
 <br>
@@ -21,7 +22,7 @@ My work lies at the intersection of neuroscience, data science, and machine lear
 
 
 ### 1. Academic Infrastructure  
-Graduate-level teaching materials for reproducible computational neuroscience. Covers DWI, EEG, fMRI, LFP, and BCI.
+Graduate-level tutorial materials for reproducible computational neuroscience. Covers DWI, EEG, fMRI, LFP, and BCI.
 
 
 **Repository**:  [`cimt-unia/neuro_ai`](https://github.com/cimt-unia/neuro_ai)
